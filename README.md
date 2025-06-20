@@ -5,9 +5,8 @@
 The site also features dedicated sections for two of my major projects, complete with descriptions and repository links, giving visitors an overview of the work I've done and what I’m passionate about building.
 
 ## 🌐 Live Demo
-
-*Add your live deployed link here (GitHub Pages / Netlify / Vercel)*  
-[Live Portfolio]([https://yourusername.github.io/dopefolio](https://685585b333cfb98b1833421c--jolly-entremet-23eaff.netlify.app/#projects ))
+ 
+[Live Portfolio](https://685585b333cfb98b1833421c--jolly-entremet-23eaff.netlify.app/#projects )
 
 ## 🚀 Features
 
